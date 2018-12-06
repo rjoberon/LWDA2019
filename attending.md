@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Attending
+title: Attending LWDA 2019
 permalink: /attending/
 ---
-
-# Attending LWDA 2019
 
 ## Venue
 

@@ -4,12 +4,37 @@ title: Organization
 permalink: /organization/
 ---
 
-# Organization
+## Local Organization
 
-## General Chair
+- [Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/) (General Chair)
+- [Matthias Weidlich](https://www.matthiasweidlich.com/) (Scientific Chair)
+- [Michael Paris]() (Local Chair)
+- [Michel Schwab]() (Local Chair)
+- [Christoph Hube]() (Publicity Chair)
 
-## Scientific Chair
 
-## Local Chairs
+## FGDB Workshop Chairs
 
-## Publicity Chair
+- 
+- 
+
+## KDML Workshop Chairs
+
+-
+-
+
+## FGIR Workshop Chairs
+
+-
+-
+
+## FGWM Workshop Chairs
+
+-
+-
+
+
+## WSBI Workshop Chairs 
+
+-
+-
