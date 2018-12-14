@@ -8,10 +8,10 @@ permalink: /organization/
 
 - [Robert Jäschke](https://amor.cms.hu-berlin.de/~jaeschkr/) (General Chair)
 - [Matthias Weidlich](https://www.matthiasweidlich.com/) (Scientific Chair)
+- [Ralf-Detlef Kutsche](https://www.dima.tu-berlin.de/menue/team/ralf_detlef_kutsche/) (Sponsoring Chair)
 - [Michael Paris](https://www.ibi.hu-berlin.de/de/institut/personen/paris) (Local Chair)
 - [Michel Schwab](https://www.ibi.hu-berlin.de/de/institut/personen/schwab) (Local Chair)
 - [Christoph Hube](https://www.l3s.de/de/users/hube) (Publicity Chair)
-
 
 ## FGDB Workshop Chairs
 
