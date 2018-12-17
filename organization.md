@@ -15,8 +15,8 @@ permalink: /organization/
 
 ## FGDB Workshop Chairs
 
-- 
-- 
+- [Ulf Leser](https://www2.informatik.hu-berlin.de/~leser/)
+- [Marcus Paradies](https://de.linkedin.com/in/marcusparadies)
 
 ## KDML Workshop Chairs
 
@@ -30,8 +30,8 @@ permalink: /organization/
 
 ## FGWM Workshop Chairs
 
-- [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)
 - [Joachim Baumeister](http://www.is.informatik.uni-wuerzburg.de/en/staff/joba/)
+- [Michael Kohlhase](https://kwarc.info/people/mkohlhase/)
 
 ## WSBI Workshop Chairs 
 
