@@ -5,4 +5,5 @@ ruby RUBY_VERSION
 gem "jekyll", "3.4.0"
 
 # Theme
-gem "slate"
+gem "jekyll-theme-slate"
+
