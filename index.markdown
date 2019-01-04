@@ -5,7 +5,7 @@ title: Home
 
 <div class="home">
 
-<p> Lernen. Wissen. Daten. Analysen. </p>
+<p> <b> Lernen. Wissen. Daten. Analysen. </b> </p>
 
 <p> Welcome to the website of the LDWA 2019 conference, hosted by the Institut für Bibliotheks- und Informationwissenschaft of the Humboldt-Universität zu Berlin from September 30, 2019 to October 2, 2019. </p>
 
