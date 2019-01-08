@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: /ibi/lwda2019
 url: https://pages.cms.hu-berlin.de
 
-# theme: jekyll-theme-tactile
+theme: jekyll-theme-slate
 
 # Build settings
 markdown: kramdown
