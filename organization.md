@@ -25,8 +25,8 @@ permalink: /organization/
 
 ## FGIR Workshop Chairs
 
-- 
-- 
+- [Philipp Schaer](https://www.th-koeln.de/personen/philipp.schaer/)
+- [Claus-Peter Klas](https://www.gesis.org/person/claus-peter.klas)
 
 ## FGWM Workshop Chairs
 
