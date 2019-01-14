@@ -10,13 +10,19 @@
     position: relative;
 }
 
+.top-header{
+    position: relative;
+    margin-bottom: 5px;
+}
+
 .site-title {
     font-size: 36px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    float: bottom;
+    font-family: Verdana !important;
 
     &,
     &:visited {
@@ -27,13 +33,17 @@
 .site-nav {
     float: right;
     line-height: 56px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-family: Verdana !important;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        font-size: large;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -111,6 +121,7 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    float: bottom;
 }
 
 .footer-col-wrapper {
@@ -129,16 +140,23 @@
 .footer-col-1 {
     width: -webkit-calc(35% - (#{$spacing-unit} / 2));
     width:         calc(35% - (#{$spacing-unit} / 2));
+    float: right
 }
 
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
+    float: bottom;
 }
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+    float: right;
+}
+
+.logo {
+    float: left;
 }
 
 @include media-query($on-laptop) {
