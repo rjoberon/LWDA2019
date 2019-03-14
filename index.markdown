@@ -5,7 +5,7 @@ title: Home
 
 # Lernen. Wissen. Daten. Analysen.
 
-Welcome to the website of the LDWA 2019 conference, hosted by the Institut für Bibliotheks- und Informationwissenschaft of the Humboldt-Universität zu Berlin from September 30, 2019 to October 2, 2019.
+Welcome to the website of the LWDA 2019 conference, hosted by the Institut für Bibliotheks- und Informationwissenschaft of the Humboldt-Universität zu Berlin from September 30, 2019 to October 2, 2019.
 
 LWDA, which expands to „Lernen, Wissen, Daten, Analysen“ („Learning, Knowledge, Data, Analytics“), covers recent research in areas such as knowledge discovery, machine learning & data mining, knowledge management, database management & information systems, information retrieval.
 
