@@ -5,7 +5,7 @@ title: Home
 
 # Lernen. Wissen. Daten. Analysen.
 
-<h2 style="font-color: #aaaaaa;">Learning. Knowledge. Data. Analytics.</h2>
+<h1 style="color: #888; margin-top: -12px;">Learning. Knowledge. Data. Analytics.</h1>
 
 Welcome to the website of the LWDA 2019 conference, hosted by the Institut für Bibliotheks- und Informationwissenschaft of the Humboldt-Universität zu Berlin from September 30, 2019 to October 2, 2019.
 
